@@ -1,0 +1,2 @@
+# wishing-script
+wishing
